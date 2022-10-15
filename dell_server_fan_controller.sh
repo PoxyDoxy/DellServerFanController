@@ -11,7 +11,7 @@
 # - Dell R610
 #
 
-# REQUIRES IPMITOOL, apt install iptmitool 
+# REQUIRES IPMITOOL, apt install ipmitool 
 #ipmitool/stable
 #  utility for IPMI control with kernel driver or LAN interface (daemon)
 
